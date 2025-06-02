@@ -1,0 +1,3 @@
+Prompt,Expected,Actual,correctness,consistency,java_score
+Translate 'Hello' to French,Bonjour,Bonjour,True,True,7
+Translate 'Goodbye' to French,Au revoir,Salut,False,True,7
